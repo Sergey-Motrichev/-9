@@ -1,0 +1,15 @@
+C:\Users\сергей\Desktop\СЕМИНАР 9 C#\ЗАДАЧА 9.2\bin\Debug\net6.0\ЗАДАЧА 9.2.exe
+C:\Users\сергей\Desktop\СЕМИНАР 9 C#\ЗАДАЧА 9.2\bin\Debug\net6.0\ЗАДАЧА 9.2.deps.json
+C:\Users\сергей\Desktop\СЕМИНАР 9 C#\ЗАДАЧА 9.2\bin\Debug\net6.0\ЗАДАЧА 9.2.runtimeconfig.json
+C:\Users\сергей\Desktop\СЕМИНАР 9 C#\ЗАДАЧА 9.2\bin\Debug\net6.0\ЗАДАЧА 9.2.dll
+C:\Users\сергей\Desktop\СЕМИНАР 9 C#\ЗАДАЧА 9.2\bin\Debug\net6.0\ЗАДАЧА 9.2.pdb
+C:\Users\сергей\Desktop\СЕМИНАР 9 C#\ЗАДАЧА 9.2\obj\Debug\net6.0\ЗАДАЧА 9.2.csproj.AssemblyReference.cache
+C:\Users\сергей\Desktop\СЕМИНАР 9 C#\ЗАДАЧА 9.2\obj\Debug\net6.0\ЗАДАЧА 9.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\сергей\Desktop\СЕМИНАР 9 C#\ЗАДАЧА 9.2\obj\Debug\net6.0\ЗАДАЧА 9.2.AssemblyInfoInputs.cache
+C:\Users\сергей\Desktop\СЕМИНАР 9 C#\ЗАДАЧА 9.2\obj\Debug\net6.0\ЗАДАЧА 9.2.AssemblyInfo.cs
+C:\Users\сергей\Desktop\СЕМИНАР 9 C#\ЗАДАЧА 9.2\obj\Debug\net6.0\ЗАДАЧА 9.2.csproj.CoreCompileInputs.cache
+C:\Users\сергей\Desktop\СЕМИНАР 9 C#\ЗАДАЧА 9.2\obj\Debug\net6.0\ЗАДАЧА 9.2.dll
+C:\Users\сергей\Desktop\СЕМИНАР 9 C#\ЗАДАЧА 9.2\obj\Debug\net6.0\refint\ЗАДАЧА 9.2.dll
+C:\Users\сергей\Desktop\СЕМИНАР 9 C#\ЗАДАЧА 9.2\obj\Debug\net6.0\ЗАДАЧА 9.2.pdb
+C:\Users\сергей\Desktop\СЕМИНАР 9 C#\ЗАДАЧА 9.2\obj\Debug\net6.0\ЗАДАЧА 9.2.genruntimeconfig.cache
+C:\Users\сергей\Desktop\СЕМИНАР 9 C#\ЗАДАЧА 9.2\obj\Debug\net6.0\ref\ЗАДАЧА 9.2.dll
